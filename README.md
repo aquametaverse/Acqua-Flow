@@ -22,7 +22,8 @@
 # ########################################################################################################################
 #
 #
-#
-#
-#
+#   Next step from a CyberSec position is to adopt a multi-layered approach focusing on dependency management, 
+#    input validation, secure environment handling, and security headers  
+#  This is to be maintained over the lifespan of the app
+# 
 #
