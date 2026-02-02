@@ -1,5 +1,6 @@
 # Acqua-Flow
-# As a Water person, I am on a Board, KAyack, Boat when I an in the FLOW ,  i need to code from the Cloud BAby
+# As a Water person, I am onoften on the waterside, outdoors, on a Board, Kayacking, on a Boat. 
+#  That is when I an in the FLOW ,  i need to code from the Cloud Baby, here is the way .
 #
 # 1. after creating a new repo in github, i clicked on the Create Code Spaces to create a codespace on .main
 #
